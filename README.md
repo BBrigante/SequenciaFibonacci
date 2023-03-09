@@ -1,6 +1,6 @@
 # SequenciaFibonacci<br>
 <br>
-Estudo de estrutura FOR - Sequência de Fibonacci
+Sequência de Fibonacci
 <br>
 <br>
 Ambiente de desenvolvimento -> Code::Blocks - versão (20.03)
